@@ -1,2 +1,1 @@
-# Learning-Bash-with-GPS-from-Microsoft
-Moderators are GPS and another Microsoft Developer
+# Hand-On Projects for learning and implementation purpose 
